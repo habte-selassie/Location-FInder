@@ -20,7 +20,7 @@ To use this application, clone this repository by running the following command 
 Copy code git clone https://github.com/habteselassie/location-finder.git.
 After cloning the repository, navigate to the project directory and open the HTML file using live server.
 
-The application should now be accessible at http://localhost:3030.
+The application should now be accessible at https://bejewelled-frangollo-83bce1.netlify.app/
 
 # Usage
 to use this workout tracker application, first click on the map when you click on the map, a form for typing your information will appear beside the map.
