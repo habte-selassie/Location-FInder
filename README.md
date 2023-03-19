@@ -34,7 +34,6 @@ and cadence for cycling and running workouts, respectively.
 
 # Technologies Used
 This application was built using the following technologies:
-
 HTML, CSS, JavaScript, Geolocation API and Leaflet Library Contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
 
 # Credits
